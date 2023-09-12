@@ -19,13 +19,23 @@ A seguir, os passos para a preparação do projeto:
 10. Segurança é imprescindível nas plataforma de hospedagem de repositórios GIT. CUIDADO com exposição de senha e acesso ao repositório.
 
 
-# Projeto: *<Nome_do_seu_Projeto>*
+# Projeto: *Pizza-Express*
 
-# Grupo: *<Nome_do_seu_Grupo>*
+# Grupo: *Grupo de engenharia de software*
 
 # Descrição
 
-*<Descrição_resumida_do_projeto>*
+*Temos uma rede de pizzarias com 40 lojas de fast-food que entrega a domicílio.
+Essa rede tem perdido 30% do seu rendimento, devido a sua ineficiência na entrega de 1hr de tempo para a realização da entrega, comparando com sua maior concorrente, a qual tem um programa de entrega de até 30min após a realização do pedido feito pelo cliente
+Atualmente a pizza-express utiliza utiliza softwares para operações casuias do negócio, mas não para melhorar a sua entrega
+O gerente de sistemas é encarregado de desenvolver uma aplicação que identifique a loja mais próxima do cliente e um software capaz de operá-las
+O objetivo é criar um serviço de entrega que consiga realizar sua função em menos de 30min
+As lojas da pizza-express não tem espaço para varejo, pois seu objetivo é apenas receber e entregar os pedidos
+A loja deve ser localizada mais próxima do cliente e deve ser capaz de finalizar a preparação das pizzas dentro de 10min a 15min do recebimento do pedido*
+
+*Temos 2 projetos de softwares a serem desenvolvidos, sendo eles:
+- sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega
+- sistema de software para suportar operações da fábrica de pizzas*
 
 # Documentação
 
