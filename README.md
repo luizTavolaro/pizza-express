@@ -26,6 +26,7 @@ A seguir, os passos para a preparação do projeto:
 # Descrição
 
 *Temos uma rede de pizzarias com 40 lojas de fast-food que entrega a domicílio.
+
 Essa rede tem perdido 30% do seu rendimento, devido a sua ineficiência na entrega de 1hr de tempo para a realização da entrega, comparando com sua maior concorrente, a qual tem um programa de entrega de até 30min após a realização do pedido feito pelo cliente*
 
 *Atualmente a pizza-express utiliza utiliza softwares para operações casuias do negócio, mas não para melhorar a sua entrega*
@@ -39,7 +40,9 @@ Essa rede tem perdido 30% do seu rendimento, devido a sua ineficiência na entre
 *A loja deve ser localizada mais próxima do cliente e deve ser capaz de finalizar a preparação das pizzas dentro de 10min a 15min do recebimento do pedido*
 
 *Temos 2 projetos de softwares a serem desenvolvidos, sendo eles:
+
 1.Sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega
+
 2.Sistema de software para suportar operações da fábrica de pizzas*
 
 # Documentação
