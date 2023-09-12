@@ -25,9 +25,9 @@ A seguir, os passos para a preparação do projeto:
 
 # Descrição
 
-*Temos uma rede de pizzarias com 40 lojas de fast-food que entrega a domicílio.
+*Temos uma rede de pizzarias com 40 lojas de fast-food que entrega a domicílio.*
 
-Essa rede tem perdido 30% do seu rendimento, devido a sua ineficiência na entrega de 1hr de tempo para a realização da entrega, comparando com sua maior concorrente, a qual tem um programa de entrega de até 30min após a realização do pedido feito pelo cliente*
+*Essa rede tem perdido 30% do seu rendimento, devido a sua ineficiência na entrega de 1hr de tempo para a realização da entrega, comparando com sua maior concorrente, a qual tem um programa de entrega de até 30min após a realização do pedido feito pelo cliente*
 
 *Atualmente a pizza-express utiliza utiliza softwares para operações casuias do negócio, mas não para melhorar a sua entrega*
 
