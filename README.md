@@ -39,11 +39,11 @@ Essa rede tem perdido 30% do seu rendimento, devido a sua ineficiência na entre
 
 *A loja deve ser localizada mais próxima do cliente e deve ser capaz de finalizar a preparação das pizzas dentro de 10min a 15min do recebimento do pedido*
 
-*Temos 2 projetos de softwares a serem desenvolvidos, sendo eles:
+*Temos 2 projetos de softwares a serem desenvolvidos, sendo eles:*
 
-1.Sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega
+*1.Sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega*
 
-2.Sistema de software para suportar operações da fábrica de pizzas*
+*2.Sistema de software para suportar operações da fábrica de pizzas*
 
 # Documentação
 
