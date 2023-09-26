@@ -56,11 +56,12 @@
 *2.Sistema de software para suportar operações da fábrica de pizzas*
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+*&lt; ![descricao](https://github.com/luizTavolaro/pizza-express/assets/120058711/b845b848-0c90-4317-8e3f-32fff8af6500) &gt;*
 
 # Diagrama de casos de uso
 
-*&lt;![casos_uso_pizza_express](https://github.com/luizTavolaro/pizza-express/assets/120058711/b475e803-b412-4631-84c5-37fe656707f8) &gt;*
+![casos_uso_pizza_express](https://github.com/luizTavolaro/pizza-express/assets/120058711/b475e803-b412-4631-84c5-37fe656707f8) 
+![casos_de_uso_2](https://github.com/luizTavolaro/pizza-express/assets/120058711/aa5bac34-c113-430f-9166-e6db3687f0f8)
 
 # Descrição dos casos de uso
 
@@ -69,23 +70,3 @@
 # Diagrama de sequencia
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
-
-# Diagrama de classes
-
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
-
-# Diagrama de Componentes
-
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
-
-# Decisões de arquitetura
-
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
-
-# Diagrama de implantação
-
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-
-# Referências
-
-*&lt;Lista de referências&gt;*
