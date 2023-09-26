@@ -60,7 +60,8 @@
 
 # Diagrama de casos de uso
 
-*&lt;![casos_uso_pizza_express](https://github.com/luizTavolaro/pizza-express/assets/120058711/b475e803-b412-4631-84c5-37fe656707f8) &gt;*
+![casos_uso_pizza_express](https://github.com/luizTavolaro/pizza-express/assets/120058711/b475e803-b412-4631-84c5-37fe656707f8) 
+![casos_de_uso_2](https://github.com/luizTavolaro/pizza-express/assets/120058711/aa5bac34-c113-430f-9166-e6db3687f0f8)
 
 # Descrição dos casos de uso
 
