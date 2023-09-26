@@ -60,7 +60,7 @@
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+*&lt;![casos_uso_pizza_express](https://github.com/luizTavolaro/pizza-express/assets/120058711/b475e803-b412-4631-84c5-37fe656707f8) &gt;*
 
 # Descrição dos casos de uso
 
