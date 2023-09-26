@@ -70,23 +70,3 @@
 # Diagrama de sequencia
 
 *&lt;Diagrama de ordem e interação dos objetos&gt;*
-
-# Diagrama de classes
-
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
-
-# Diagrama de Componentes
-
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
-
-# Decisões de arquitetura
-
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
-
-# Diagrama de implantação
-
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
-
-# Referências
-
-*&lt;Lista de referências&gt;*
