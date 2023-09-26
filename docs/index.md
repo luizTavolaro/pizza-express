@@ -56,7 +56,7 @@
 *2.Sistema de software para suportar operações da fábrica de pizzas*
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+*&lt; ![descricao](https://github.com/luizTavolaro/pizza-express/assets/120058711/b845b848-0c90-4317-8e3f-32fff8af6500) &gt;*
 
 # Diagrama de casos de uso
 
