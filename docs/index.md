@@ -56,24 +56,42 @@
 *2.Sistema de software para suportar operações da fábrica de pizzas*
 
 # Análise de requisitos funcionais e não-funcionais
-Analise de requisitos funcionais e não funcionais
-Pizza-Express Atendimento.
-Requisitos funcionais:
-•	Receber pedido em uma central.
-•	Buscar fabrica mais próxima.
-•	Encaminhar pedido para fabrica mais próxima.
-Requisitos não funcionais:
-•	De eficiência
-•	De compromisso
-Pizza-Express Operações.
-Requisitos funcionais:
-•	Receber pedido da Central
-•	Encaminhar a produção
-•	Realizar e registrar a entrega
-Requisitos não funcionais:
-•	De entrega
-•	De eficiência
-•	De compromisso
+
+*Analise de requisitos funcionais e não funcionais* 
+
+*Pizza-Express Atendimento.* 
+
+*Requisitos funcionais:* 
+
+*•	Receber pedido em uma central.* 
+
+*•	Buscar fabrica mais próxima.* 
+
+*•	Encaminhar pedido para fabrica mais próxima.* 
+
+*Requisitos não funcionais:* 
+
+*•	De eficiência* 
+
+*•	De compromisso* 
+
+*Pizza-Express Operações.* 
+
+*Requisitos funcionais:* 
+
+*•	Receber pedido da Central* 
+
+*•	Encaminhar a produção* 
+
+*•	Realizar e registrar a entrega* 
+
+*Requisitos não funcionais:* 
+
+*•	De entrega* 
+
+*•	De eficiência* 
+
+*•	De compromisso* 
 
 # Diagrama de casos de uso
 
