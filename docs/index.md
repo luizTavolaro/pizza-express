@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Pizza Express&gt;*
+*Pizza Express*
 </center></font>
 
 [Material Auxiliar - PROJETO ENGENHARIA DE SOFTWARE.pdf](https://github.com/luizTavolaro/pizza-express/files/12796587/Material.Auxiliar.-.PROJETO.ENGENHARIA.DE.SOFTWARE.pdf)
