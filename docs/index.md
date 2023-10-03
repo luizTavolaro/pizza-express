@@ -6,9 +6,7 @@
 *&lt;Pizza Express&gt;*
 </center></font>
 
->*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
-
->*Observação 2: O índice abaixo não precisa ser editado se você utilizar o Visual Studio Code com a extensão **Markdown All in One**. Essa extensão atualiza o índice automaticamente quando o arquivo é salvo.*
+[Material Auxiliar - PROJETO ENGENHARIA DE SOFTWARE.pdf](https://github.com/luizTavolaro/pizza-express/files/12796587/Material.Auxiliar.-.PROJETO.ENGENHARIA.DE.SOFTWARE.pdf)
 
 **Conteúdo**
 
@@ -18,12 +16,6 @@
 - [Diagrama de casos de uso](#diagrama-de-comportamento-atores)
 - [Descrição dos casos de uso](#descrição-das-funcões)
 - [Diagrama de senquencia](#diagrama-de-ordem-interações)
-- [Diagrama de classes](#diagrama-orientado-objetos)
-- [Diagrama de componentes](#diagrama-estrutura-componente)
-- [Decisões de arquitetura](#decisões-de-arquitetura)
-- [Diagrama de implantação](#diagrama-de-hardware-software)
-- [Referências](#referências)
-
 
 # Autores
 
