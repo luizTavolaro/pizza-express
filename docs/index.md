@@ -56,6 +56,24 @@
 *2.Sistema de software para suportar operações da fábrica de pizzas*
 
 # Análise de requisitos funcionais e não-funcionais
+Analise de requisitos funcionais e não funcionais
+Pizza-Express Atendimento.
+Requisitos funcionais:
+•	Receber pedido em uma central.
+•	Buscar fabrica mais próxima.
+•	Encaminhar pedido para fabrica mais próxima.
+Requisitos não funcionais:
+•	De eficiência
+•	De compromisso
+Pizza-Express Operações.
+Requisitos funcionais:
+•	Receber pedido da Central
+•	Encaminhar a produção
+•	Realizar e registrar a entrega
+Requisitos não funcionais:
+•	De entrega
+•	De eficiência
+•	De compromisso
 
 # Diagrama de casos de uso
 
@@ -64,6 +82,8 @@
 
 # Descrição dos casos de uso
 ![descricao](https://github.com/luizTavolaro/pizza-express/assets/120058711/b845b848-0c90-4317-8e3f-32fff8af6500)
+<img width="490" alt="Captura de Tela 2023-10-03 às 11 46 55 AM" src="https://github.com/luizTavolaro/pizza-express/assets/120058711/45c2d09f-90f7-4d56-9994-36b01b7707fc">
+
 
 # Diagrama de sequencia
 
