@@ -43,9 +43,9 @@
 
 *Temos 2 projetos de softwares a serem desenvolvidos, sendo eles:*
 
-*1.Sistema de software para o atendimento do pedido e para encontrar localização da fábrica da pizza mais próxima do cliente para fazer a entrega*
+*1.Sistema de software que visa receber os pedidos feitos pelo cliente, centralizar na central e assim encontrar a unidade mais próxima do endereço informado. Assim a entrega será feita de uma maneira rápida e eficiente*
 
-*2.Sistema de software para suportar operações da fábrica de pizzas*
+*2.Sistema de software que visa suportar as operações da fábrica de pizza lidar com o encaminhamento do pedido para a pizzaria destinada e registrar a entrega*
 
 # Análise de requisitos funcionais e não-funcionais
 
@@ -94,7 +94,6 @@
 ![descricao](https://github.com/luizTavolaro/pizza-express/assets/120058711/b845b848-0c90-4317-8e3f-32fff8af6500)
 <img width="490" alt="Captura de Tela 2023-10-03 às 11 46 55 AM" src="https://github.com/luizTavolaro/pizza-express/assets/120058711/45c2d09f-90f7-4d56-9994-36b01b7707fc">
 
-
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![digramaSequencia](https://github.com/luizTavolaro/pizza-express/assets/120058711/63e14f9d-9210-4888-b61b-631307d46807)
