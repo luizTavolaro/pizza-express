@@ -87,8 +87,8 @@
 
 # Diagrama de casos de uso
 
-![casos_uso_pizza_express](https://github.com/luizTavolaro/pizza-express/assets/120058711/b475e803-b412-4631-84c5-37fe656707f8) 
-![casos_de_uso_2](https://github.com/luizTavolaro/pizza-express/assets/120058711/aa5bac34-c113-430f-9166-e6db3687f0f8)
+![WhatsApp Image 2023-10-31 at 19 48 07 (1)](https://github.com/luizTavolaro/pizza-express/assets/120058711/2654c28d-c0f6-4480-a74f-0bd2076ec01f)
+![WhatsApp Image 2023-10-31 at 19 48 07 (2)](https://github.com/luizTavolaro/pizza-express/assets/120058711/8dee22a1-64e0-41ae-a096-2538f7371633)
 
 # Descrição dos casos de uso
 ![descricao](https://github.com/luizTavolaro/pizza-express/assets/120058711/b845b848-0c90-4317-8e3f-32fff8af6500)
@@ -97,3 +97,6 @@
 # Diagrama de sequencia
 
 ![digramaSequencia](https://github.com/luizTavolaro/pizza-express/assets/120058711/63e14f9d-9210-4888-b61b-631307d46807)
+
+# Diagrama de classes
+![WhatsApp Image 2023-10-31 at 19 48 07](https://github.com/luizTavolaro/pizza-express/assets/120058711/1a9dc843-94be-4e98-a33d-5ad11fda99d7)
