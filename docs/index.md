@@ -106,3 +106,6 @@
 
 # Diagrama de implementação
 ![WhatsApp Image 2023-11-28 at 20 46 09_8bf16e67](https://github.com/luizTavolaro/pizza-express/assets/120058711/3f458ec7-0e93-41a5-b1c8-a79bc2c73427)
+
+# Decisão de arquitetura
+No nosso projeto iremos usar a Arquitetura de Microsserviços, uma vez que ela divide os serviços em aplicações, cada um focando  em uma função especifica. Permitindo uma melhor manutenção e flexibilidade do sistema embora traga um pouco de complexidade para nosso código. A linguagem escolhida foi Java pela familiarização e capacitação de nossa equipe.
