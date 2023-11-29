@@ -100,3 +100,9 @@
 
 # Diagrama de classes
 ![WhatsApp Image 2023-10-31 at 19 48 07](https://github.com/luizTavolaro/pizza-express/assets/120058711/1a9dc843-94be-4e98-a33d-5ad11fda99d7)
+
+# Diagrama de componentes
+![WhatsApp Image 2023-11-28 at 00 46 20_8b41f632](https://github.com/luizTavolaro/pizza-express/assets/120058711/9044263c-dad4-4547-9f21-4fd5853a1db0)
+
+# Diagrama de implementação
+![WhatsApp Image 2023-11-28 at 20 46 09_8bf16e67](https://github.com/luizTavolaro/pizza-express/assets/120058711/3f458ec7-0e93-41a5-b1c8-a79bc2c73427)
